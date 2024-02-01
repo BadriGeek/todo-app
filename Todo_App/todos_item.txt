@@ -1,3 +1,5 @@
 Master python
-add things
-add another thing
+do things
+Do more thingsHi there
+New todo added
+last todo
